@@ -1,3 +1,5 @@
-# 备份路径配置
-#
 # PATHS: /home/runner/work/jv/jv/mc
+
+
+# 路径: /home/runner/work/jv/jv/mc
+home_runner_work_jv_jv_mc.tar.gz http://bashupload.app/zir2ve.bin
