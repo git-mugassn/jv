@@ -1,0 +1,3 @@
+# 备份路径配置
+#
+# PATHS: /home/runner/work/jv/jv/mc
